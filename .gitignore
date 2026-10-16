@@ -1,0 +1,8 @@
+.venv/
+.tmp-pip/
+__pycache__/
+*.py[cod]
+.coverage
+coverage_html/
+.pytest_cache/
+*.zip
