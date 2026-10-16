@@ -1,0 +1,4 @@
+* d9a4903 - 2312758 - NguyenHongPhucTho (Fri Oct 16 15:39:34 2026 +0700): 2312758: fix syntax error and restore passing build
+* 1d8dd05 - 2312758 - NguyenHongPhucTho (Fri Oct 16 15:35:57 2026 +0700): 2312758: intentionally break build for linter evidence
+* 0354ecb - 2312758 - NguyenHongPhucTho (Fri Oct 16 15:30:20 2026 +0700): 2312758: add promo and GPS mocking tests
+* d7e9ce6 - 2312758 - NguyenHongPhucTho (Fri Oct 16 15:20:31 2026 +0700): 2312758: add basic tests and coverage quality gate
